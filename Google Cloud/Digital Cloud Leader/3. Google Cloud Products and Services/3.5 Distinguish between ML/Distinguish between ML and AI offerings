@@ -1,5 +1,0 @@
-Considerations include:
-
-Describe the differences and benefits of Google Cloud’s hardware accelerators (e.g., Vision API, AI Platform, TPUs)
-Identify when to train your own model, use a Google Cloud pre-trained model, or build on an existing model
-
