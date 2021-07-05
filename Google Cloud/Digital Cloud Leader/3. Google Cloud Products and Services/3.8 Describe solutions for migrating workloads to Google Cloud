@@ -1,0 +1,5 @@
+Considerations include:
+
+Identify data migration options
+Differentiate when to use Migrate for Compute Engine versus Migrate for Anthos
+Distinguish between lift and shift versus application modernization
