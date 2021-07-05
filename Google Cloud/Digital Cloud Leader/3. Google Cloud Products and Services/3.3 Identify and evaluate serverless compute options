@@ -1,0 +1,5 @@
+Considerations include:
+
+Define the function and use of App Engine, Google Cloud Functions, and Cloud Run
+Define rationale for versioning with serverless compute options
+Cost and performance tradeoffs of scale to zero
