@@ -1,0 +1,8 @@
+Considerations include:
+
+Integration with on-premises/multi-cloud environments
+Cloud-native networking (VPC, peering, firewalls, container networking)
+Choosing data processing technologies
+Choosing appropriate storage types (e.g., object, file, databases)
+Choosing compute resources (e.g., preemptible, custom machine type, specialized workload)
+Mapping compute needs to platform products
