@@ -1,0 +1,6 @@
+Considerations include:
+
+High availability and failover design
+Elasticity of cloud resources with respect to quotas and limits
+Scalability to meet growth requirements
+Performance and latency
